@@ -6,11 +6,17 @@ comments: true
 
 <div class="row">
 <!-- Sidebar -->
-  <div class="col-sm-4">
-    <img src="{{ site.baseurl }}/assets/images/roma.png">
-
-    <h2>Roma Sharma</h2>
-    <h3>Trainer & life coach</h3>
+  <div class="col-sm-5">
+  <div class="highlight-box">
+    <div class="row">
+      <div class="col-sm-4">
+        <img src="{{ site.baseurl }}/assets/images/roma.png">
+      </div>
+      <div class="col-sm-8">
+        <h2>Roma Sharma</h2>
+        <h3>Trainer & life coach</h3>
+      </div>
+    </div>
 
     <ul>
       <li>Certified Counsellor in person-centred therapy</li>
@@ -21,9 +27,10 @@ comments: true
       <li>Advanced Diploma in Hypnosis (Business-NLP, UK)</li>
     </ul>
   </div>		
+  </div>		
 
 <!-- Post -->        
-	<div class="col-sm-8">
+	<div class="col-sm-7">
 		<div class="mainheading">              
 
 <p>I am a Life Coach certified in person-centered therapy, with a background in Transactional Analysis, Neuro Linguistic Programming and Hypnotic Communication Skills. After undergoing 3000+ hours of training and having worked with hundreds of clients I have authored impactful training programs that bring about desired changes in people's lives.</p>
