@@ -6,7 +6,7 @@ meta_description: "Jekyll theme for blogging."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: '/mindlab'
+baseurl: ''
 email: 'romaspace@gmail.com'
 google_analytics: ''
 disqus: ''
@@ -38,7 +38,6 @@ testimonials:
 
 gallery:
   - Img_1.jpg
-  - Img_2.jpg
   - Img_3.jpg
   - Img_4.jpg
   - Img_5.jpg
