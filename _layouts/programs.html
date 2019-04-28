@@ -1,0 +1,41 @@
+---
+layout: default
+disqus: false
+archive: false
+post_class: post-template
+---
+
+<!-- Begin Article
+================================================== -->
+
+	<div class="row">
+
+		<div class="col-md-8 col-lg-8">
+			<div class="mainheading">              
+                
+                <!-- Post Title -->
+				<h1 class="posttitle">{{ page.title }}</h1> 
+                
+			</div>
+
+			<!-- Post Content -->
+			<div class="article-post">
+				{{content}}
+                <div class="clearfix"></div>
+			</div>
+
+            
+		</div>
+		<!-- End Post -->
+        
+        <!-- Right Sidebar -->
+        <div class="col-md-4 col-lg-4">
+        <div class="sidebar-right">
+        {% include sidebar-program.html %}
+        </div>
+        </div>
+
+	</div>
+
+<!-- End Article
+================================================== -->

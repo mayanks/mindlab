@@ -1,14 +1,15 @@
 ---
-layout: page
+layout: default
 title:  "Gallery"
-author: sal
+author: roma
 categories: [ ]
 image: assets/images/3.jpg
 ---
 
-<div class="gallery-container">
+<h1>Gallery</h1>
+<div class="gallery-container row">
   {% for image in site.gallery %}
-    <a href="{{ site.baseurl }}/assets/images/gallery/{{ image }}">
+    <a class="col-sm-3" href="{{ site.baseurl }}/assets/images/gallery/{{ image }}">
       <img src="{{ site.baseurl }}/assets/images/gallery/{{ image }}"/>
     </a>
   {% endfor %}

@@ -1,0 +1,28 @@
+<div class="sidebar">
+    
+    <div class="sidebar-section">
+        {% if page.image %}
+            <img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">
+        {% endif %}
+
+        {% if page.program-date %}
+        <h5><span>Upcoming Program</span></h5>
+        <h4 class="card-text">Date   : {{page.program-date}}</h4>
+        <h4 class="card-text">Time   : {{page.program-time}}</h4>
+        <h4 class="card-text"></h4>Venue : {{page.program-venue}}</h4>
+        {% endif %}
+
+        {% if page.program-price %}
+        <h5><span>Program Price</span></h5>
+        <h4>Early Bird (Before 20th Apr) : INR 6,500/-</h4>
+        <h4>After 20th Apr : INR 8,000/-</h4>
+        (Includes lunch, refreshments, material & certificate)
+        Registration closes on 27th Apr 2019
+        Payment details you will receive via email on registration.
+        {% endif %}
+    </div>
+        
+    <div class="sidebar-section">
+    </div>
+            
+</div>
