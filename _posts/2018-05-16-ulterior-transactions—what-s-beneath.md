@@ -2,7 +2,7 @@
 layout: post-right-sidebar
 title:  "Ulterior transactions — what’s beneath?"
 author: roma
-categories: [ nlp ]
+categories: [ Transactional Analysis, Relationships, Childhood ]
 image: assets/images/iceberg.jpg
 excerpt: Has it ever happened to you that someone complimented you for something and you wondered if it was genuine or sarcastic?
 ---
