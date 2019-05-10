@@ -4,7 +4,7 @@ title:  "Conversational Hypnosis"
 author: roma
 categories: [ ]
 image: assets/images/accomplished.jpg
-program-date : 29, 30th Jun 2019
+program-date : 20, 21st Jul 2019
 program-time : 9:30 am - 5 pm
 program-venue : Pai Viceroy Jayanagar 3rd Block, Bengaluru
 ---
