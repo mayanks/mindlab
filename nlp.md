@@ -3,9 +3,9 @@ layout: programs
 title:  "Neuro Linguistic Programming"
 author: roma
 image: assets/images/mindset.jpg
-program-date : 4, 5th May 2019
+program-date : 29, 30th May 2019
 program-time : 9:30 am - 5 pm
-program-venue : Pai Viceroy Jayanagar 3rd Block, Bengaluru
+program-venue : Dialogues Cafe, J P Nagar, Bengaluru
 program-price : "INR 6,500/-"
 ---
 
