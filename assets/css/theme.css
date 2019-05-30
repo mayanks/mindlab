@@ -346,6 +346,14 @@ span.post-name a,span.post-read-more a:hover {
 	font-weight:700;
 	margin-bottom:1rem;
 }
+
+.table.pricing th {
+    background-color: #50b0e4;
+    color: #ffffff;
+}
+.table-bordered {
+    border: 2px solid #bcbebf;
+}
 .intro {
     background-image:url(../images/head.jpg);
     background-size:cover;

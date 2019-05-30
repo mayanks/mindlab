@@ -32,3 +32,73 @@ program-price : "INR 6,500/-"
 ### Participant Feedback
 Please find past participant feedback over <a href="https://www.facebook.com/pg/themindlabtraining/reviews/?ref=page_internal">here</a> .
 
+table, th, td {
+  border: 1px solid black;
+}
+<table class="table table-bordered table-hover pricing">
+  <thead>
+    <tr>
+      <th>Program</th>
+      <th>Program Content</th>
+      <th>Duration</th>
+      <th>Pricing</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b>NLP Diploma program</b>
+      </td>
+      <td>
+        <ul>
+        <li>Frames of thinking</li>
+        <li>Beliefs of excellence</li>
+        <li>Unconscious programming</li>
+        <li>Internal representations</li>
+        <li>Communication model</li>
+        <li>Rapport building skills</li>
+        <li>Six-step-influence technique</li>
+        <li>Four-step success formula</li>
+        <li>Pacing and leading</li>
+        <li>Impactful language patterns</li>
+
+        </ul>
+    </td>
+    <td>2 Days,
+        9:30 am to 5pm
+    </td>
+    <td>
+        INR 6,500/-
+
+        <p>(includes certification, lunch, tea/coffee and material)</p>
+    </td>
+    </tr>
+    <tr>
+      <td><b>NLP Diploma Program + Two individual 1-on-1 coaching sessions</b></td>
+      <td>Includes the above diploma program + 2 one-on-one coaching sessions that will be conducted over video call. 
+        <p>The sessions will focus on solving a specific issue faced by the client or working towards better results in a given area.</p>
+       </td>
+      <td>
+        2 Days,
+        9:30 am to 5pm + 2 one hour sessions
+      </td>
+      <td>
+        INR 9,000/-
+
+        <p>(Diploma program includes certification, lunch, tea/coffee and material)</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Individual Coaching Package</b>
+      </td>
+      <td>
+        6 months of one-on-one coaching sessions, one per month. Session duration is one hour and will be conducted over video call.
+        <p>Goals will be set based on the requirements of the individual and systematically coaching will take place to move towards desired outcomes.</p>
+       </td>
+      <td>6 individual coaching  sessions of one hour each.</td>
+      <td>INR 15,000/-</td>
+    </tr>
+    
+  </tbody>
+
