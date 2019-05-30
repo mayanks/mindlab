@@ -32,9 +32,7 @@ program-price : "INR 6,500/-"
 ### Participant Feedback
 Please find past participant feedback over <a href="https://www.facebook.com/pg/themindlabtraining/reviews/?ref=page_internal">here</a> .
 
-table, th, td {
-  border: 1px solid black;
-}
+
 <table class="table table-bordered table-hover pricing">
   <thead>
     <tr>
