@@ -5,7 +5,6 @@ author: roma
 program-date : 29, 30th Jun 2019
 program-time : 9:30 am - 5 pm
 program-venue : Dialogues Cafe, J P Nagar, Bengaluru
-program-price : "INR 6,500/-"
 ---
 <iframe style="margin-bottom:20px" width="460" height="258" src="https://youtube.com/embed/8TBSvDN9IGQ" frameborder="0" allow="" allowfullscreen></iframe>
 
@@ -66,9 +65,9 @@ Please find past participant feedback over <a href="https://www.facebook.com/pg/
         9:30 am to 5pm
     </td>
     <td>
-        INR 6,500/-
+        Price available on request. Please mail roma@themindlab.in
 
-        <p>(includes certification, lunch, tea/coffee and material)</p>
+        <!-- <p>(includes certification, lunch, tea/coffee and material)</p>  -->
     </td>
     </tr>
     <tr>
@@ -81,7 +80,7 @@ Please find past participant feedback over <a href="https://www.facebook.com/pg/
         9:30 am to 5pm + 2 one hour sessions
       </td>
       <td>
-        INR 9,000/-
+        INR 15,000/-
 
         <p>(Diploma program includes certification, lunch, tea/coffee and material)</p>
       </td>
@@ -95,7 +94,7 @@ Please find past participant feedback over <a href="https://www.facebook.com/pg/
         <p>Goals will be set based on the requirements of the individual and systematically coaching will take place to move towards desired outcomes.</p>
        </td>
       <td>6 individual coaching  sessions of one hour each.</td>
-      <td>INR 15,000/-</td>
+      <td>INR 20,000/-</td>
     </tr>
     
   </tbody>
