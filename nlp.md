@@ -8,6 +8,7 @@ program-venue : Dialogues Cafe, J P Nagar, Bengaluru
 ---
 <iframe style="margin-bottom:20px" width="460" height="258" src="https://youtube.com/embed/8TBSvDN9IGQ" frameborder="0" allow="" allowfullscreen></iframe>
 
+
 ### Key Takeaways :​
  * Discover how you create your reality
  * Install Powerful Beliefs that support your outcomes
