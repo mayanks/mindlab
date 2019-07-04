@@ -3,12 +3,12 @@ layout: programs
 title:  "Conversational Hypnosis"
 author: roma
 categories: [ ]
-image: assets/images/accomplished.jpg
-program-date : 20, 21st Jul 2019
+program-date : 10, 11th Aug 2019
 program-time : 9:30 am - 5 pm
-program-venue : Pai Viceroy Jayanagar 3rd Block, Bengaluru
+program-venue : Dialogues Cafe, J P Nagar, Bengaluru
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p6ePBLr25ss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Key Takeaways
  
 * Make your communication irresistible so you can get through to people easily.
