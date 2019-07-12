@@ -1,6 +1,6 @@
 ---
 layout: programs
-title:  "Conversational Hypnosis"
+title:  "Conversational Persuasion & Influence"
 author: roma
 categories: [ ]
 program-date : 10, 11th Aug 2019
@@ -19,9 +19,7 @@ Hypnotic Communication Skills  is particularly useful for people who are in sale
 
 ### The Program Covers the following topics :​
 
-* Understand what hypnosis is
-* Find real world applications of hypnosis
-* Find ways to effectively communicate with people
+* Learn Simple Mind hacks to be more Influential
 * Leverage on time tested ways to get through to others faster
 * Learn Language patterns that talk directly to a person's unconscious mind
 * Improve your self-talk to remain in resourceful states
@@ -32,5 +30,4 @@ Hypnotic Communication Skills  is particularly useful for people who are in sale
 * Non-verbal influencing skills
 * Creativity out of confusion
 * How to lead people into resourceful states
-* Learn Simple Mind hacks to be more Influential
 
