@@ -8,7 +8,7 @@ program-time : 9:30 am - 5 pm
 program-venue : Dialogues Cafe, J P Nagar, Bengaluru
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p6ePBLr25ss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZDvHivqOcYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Key Takeaways
  
 * Make your communication irresistible so you can get through to people easily.
