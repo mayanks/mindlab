@@ -4,9 +4,10 @@ title:  "Conversational Persuasion & Influence"
 author: roma
 categories: [ ]
 program-date : 10, 11th Aug 2019
+reg-close-date : 6th Aug 2019
 program-time : 9:30 am - 5 pm
 program-venue : Dialogues Cafe, J P Nagar, Bengaluru
-program-price : Rs 6,500/-
+program-price : INR 6,500/-
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZDvHivqOcYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
