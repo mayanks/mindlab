@@ -16,9 +16,14 @@
         <h5><span>Program Price</span></h5>
         <h4>Price : {{page.program-price}}</h4>
         (Includes lunch, refreshments, material & certificate)
-        <p>Registration closes on {{page.reg-close-date}}</p>
-        <p>Payment details will be mailed to you on registration.</p>
         {% endif %}
+
+        {% if page.reg-close-date %}
+        <p> </p>
+        <p>Registration closes on {{page.reg-close-date}}</p>
+        <p>Program Price & Payment details will be mailed to you on registration.</p>
+        {% endif %}
+
     </div>
         
     <div class="sidebar-section">
