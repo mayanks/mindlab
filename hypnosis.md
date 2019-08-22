@@ -41,6 +41,8 @@ As long as you are communicating you can leverage on your language patterns and 
 * Creativity out of confusion
 * How to lead people into resourceful states
 
+<p>Please read <a href="https://www.facebook.com/pg/themindlabtraining/reviews/?ref=page_internal">past participant feedback</a> on programs conducted.</p>
+
 <p>
 Join the certification program and discover mind hacks to becoming irresistible in your communication. 
 
