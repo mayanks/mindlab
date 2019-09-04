@@ -8,7 +8,7 @@ reg-close-date : 4th Oct 2019
 program-time : 9:30 am - 5 pm
 program-venue : Dialogues Cafe, J P Nagar, Bengaluru
 page.reg-close-date : 4th Oct 2019
-program-price : INR 6,500/-
+program-price : INR 7,000/-
 
 ---
 
