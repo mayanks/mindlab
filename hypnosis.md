@@ -3,11 +3,11 @@ layout: programs
 title:  "Conversational Persuasion & Influence"
 author: roma
 categories: [ ]
-program-date : 9, 10th Nov 2019
-reg-close-date : 4th Oct 2019
+program-date : 18, 19th Jan 2020
+reg-close-date : 15th Jan 2020
 program-time : 9:30 am - 5 pm
 program-venue : Dialogues Cafe, J P Nagar, Bengaluru
-page.reg-close-date : 4th Oct 2019
+page.reg-close-date : 15th Jan 2020
 program-price : INR 6,500/-
 
 ---
