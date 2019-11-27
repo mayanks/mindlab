@@ -2,11 +2,11 @@
 layout: programs
 title:  "Neuro Linguistic Programming"
 author: roma
-program-date : 23rd, 24th Nov 2019
-reg-close-date : 17th Nov 2019
+program-date : 15th, 16th Feb 2020
+reg-close-date : 10th Feb 2020
 program-time : 9:30 am - 5 pm
 program-venue : Dialogues Cafe, J P Nagar, Bengaluru
-page.reg-close-date : 17th Nov 2019
+page.reg-close-date : 10th Feb 2020
 program-price : INR 7,000/-
 
 ---
