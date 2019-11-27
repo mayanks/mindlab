@@ -31,9 +31,14 @@ comments: true
 
 <!-- Post -->        
 	<div class="col-sm-7">
-		<div class="mainheading">              
+		<div class="mainheading">      
+            
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vb1xgmqXPkE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p>I am a Life Coach certified in person-centered therapy, with a background in Transactional Analysis, Neuro Linguistic Programming and Hypnotic Communication Skills. After undergoing 3000+ hours of training and having worked with hundreds of clients I have authored impactful training programs that bring about desired changes in people's lives.</p>
+
+<p>hey, there! Welcome to the Mind Lab. My name is Roma Sharma. I am a Life Coach & Trainer who has keen interest in understanding human behaviour and connecting with people at a deeper level. 
+
+After undergoing 3000+ hours of training and having worked with hundreds of clients I have authored impactful training programs that bring about desired changes in people's lives.</p>
 
 <p>Over the years, I have had the opportunity to coach and train people from a variety of backgrounds - IT Industry, Educational Institutions, Counselling Academies, Hospitality Industry to name a few. With my experience in the field of emotional wellbeing I am able to work with people systematically to move them towards becoming phenomenal versions of themselves.</p>
 
