@@ -13,8 +13,23 @@ program-price : INR 7,000/-
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZDvHivqOcYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div>
+<p>
+
+</p>
+<p>
+What makes some people far more convincing and persuasive than others? What enables top influencers to effortlessly impact the lives of many and have great relationships?
+</p>
+<p>
+The Conversational Persuasion and Influence is a 2-day-program that will give you the critical path of influence in any situation. The critical path is the easiest way to get through to a person and gain compliance. It will also give you the language patterns you can use to directly talk to the listener's neurology. 
+</p>
+<p>
+Combining the critical path with the language patterns in your communication can make you very complelling in the listener's world. 
+</p>
+</div>
+
 ### Key Takeaways
- 
 * Make your communication irresistible so you can get through to people easily.
 * Learn how impactful language patterns can steer conversations towards desired outcomes.
 * Discover simple mind hacks to be more influential while communicating with yourself and others.
