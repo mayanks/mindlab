@@ -14,13 +14,13 @@ program-price : INR 7,000/-
 
 <div>
 <p>
-Have you ever wondered what makes highly successful people successful in their endeavors? What is common between them - their underlying beliefs, ways of thinking or that secret something which sets them apart. 
+Have you ever wondered what makes highly successful people different from their pack? What is common between them - their underlying beliefs, ways of thinking or that secret something which sets them apart. 
 </p>
 <p>
-Neuro Linguistic Programming is an observation-based science that focusses on what works with people. Its highly goal-oriented approach has made it the #1 coaching tool used by experts across the world.
+Neuro Linguistic Programming is an observation-based science that focusses on what works for people. Its highly goal-oriented approach and ability to generate outstanding results has made it the #1 coaching tool used by experts across the world.
 </p>
 <p>
-If you have goals in your life that you want to go after, if you want to know how you create your inner world and would like to change it or if you want better results in some area of your life then NLP is a must-do program for you.
+If you have goals in your life that you want to go after, if you want to know how you create your inner world and would like to change it or if you want better results in some area of your life then NLP is a must-do program for you. Its a powerful way to remove roadblocks to success, build strong relationships and design the kind of life you want.
 </p>
 </div>
 
