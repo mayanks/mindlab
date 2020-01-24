@@ -29,7 +29,7 @@ Combining the critical path with the language patterns in your communication can
 </p>
 </div>
 
-### Key Takeaways
+### Key Takeaways 
 * Make your communication irresistible so you can get through to people easily.
 * Learn how impactful language patterns can steer conversations towards desired outcomes.
 * Discover simple mind hacks to be more influential while communicating with yourself and others.
@@ -42,8 +42,7 @@ It is also useful for executives who are in positions where they need to be able
 As long as you are communicating you can leverage on your language patterns and feeling states to get what you want from situations.
 </p>
 
-### The Program Covers the following topics :​
-
+### Program Content 
 * Learn Simple Mind hacks to be more Influential
 * Leverage on time tested ways to get through to others faster
 * Learn Language patterns that talk directly to a person's unconscious mind
@@ -56,10 +55,18 @@ As long as you are communicating you can leverage on your language patterns and 
 * Creativity out of confusion
 * How to lead people into resourceful states
 
-<p>Please read <a href="https://www.facebook.com/pg/themindlabtraining/reviews/?ref=page_internal">past participant feedback</a> on programs conducted.</p>
+### Participant Feedback
+Please find the reviews of participants who have attended the program: 
+<p>
+<a href="https://www.facebook.com/pg/themindlabtraining/reviews/?ref=page_internal">Facebook Reviews</a> 
+</p>
+<p>
+<a href="https://business.google.com/reviews/l/17278415145324209822?hl=en-GB">Google Reviews</a>
+</p>
+
 
 <p>
-Join the certification program and discover mind hacks to becoming irresistible in your communication. 
+Join the certification program and discover mind hacks that will make you irresistible in your communication. 
 
 Register now!
 </p>

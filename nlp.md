@@ -24,7 +24,7 @@ If you have goals in your life that you want to go after, if you want to know ho
 </p>
 </div>
 
-### Key Takeaways :​
+### Key Takeaways 
  * Discover how you create your reality
  * Install Powerful Beliefs that support your outcomes
  * Build Strong Relationships, with yourself and others
@@ -32,7 +32,7 @@ If you have goals in your life that you want to go after, if you want to know ho
  * Use Impactful language patterns in your communication
  * Learn Simple Mind hacks to be more Influential
 
-### Program Content :​
+### Program Content 
 * Frames of thinking
 * Beliefs of excellence
 * Unconscious programming
@@ -45,7 +45,14 @@ If you have goals in your life that you want to go after, if you want to know ho
 * Impactful language patterns
 
 ### Participant Feedback
-Please find past participant feedback over <a href="https://www.facebook.com/pg/themindlabtraining/reviews/?ref=page_internal">here</a> .
+Please find the reviews of participants who have attended the program: 
+
+<p>
+<a href="https://www.facebook.com/pg/themindlabtraining/reviews/?ref=page_internal">Facebook Reviews</a> 
+</p>
+<p>
+<a href="https://business.google.com/reviews/l/17278415145324209822?hl=en-GB">Google Reviews</a>
+</p>
 
 <table class="table table-bordered table-hover pricing">
   <thead>
