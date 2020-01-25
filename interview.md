@@ -13,20 +13,23 @@ program-price : INR 4,000/-
 <iframe style="margin-bottom:20px" width="460" height="258" src="https://youtube.com/embed/8TBSvDN9IGQ" frameborder="0" allow="" allowfullscreen></iframe>
 
 <div>
-<p>What if you could learn how to use simple mind hacks to get you that dream job?</p>
+<p>Are you trying to crack an interview to get your dream job? If you learn mind hacks to easily nail it what would that do for you? 
+</p>
 
-<p>In my years of experience as a coach/ trainer very often I meet people who are technically competent but don’t end up getting a job due to unknown reasons. I have had the opportunity of crafting courses around the subject of cracking interviews and getting good results for the participants as well.</p>
+<p>In my years of experience as a coach/ trainer I often meet people who are competent in their line of work but don’t end up getting a job due to unknown reasons. That results in disappointment sometimes leading to the conclusion that they are not skilled enough, which  is usually not the case.</p>
 
-<p>Getting a job requires you to basically play on the interviewer’s psychology. If there are 5 people who are equally qualified how will the interviewers decide whom to pick? There are unconscious filters that run in the background causing people to perceive you in a certain way. If you could learn the art of finding out what people want and give it to them, they will give you what you want. They will also think it’s their idea. </p>
+<p>Getting a job requires you to basically play on the interviewer’s psychology. If there are 5 people who are equally qualified how will the interviewers decide whom to pick?  It is eventually a mind game. One whose outcome can be controlled if you are trained to do so. </p>
 
-<p>If you are looking to crack a job interview this is probably the most important course you can take!</p>
+<p>There are unconscious filters that run in the background causing people to perceive you in a certain way. If you could learn the art of finding out what people want and give it to them, they will give you what you want. They will also think it’s their idea. </p>
+
+<p>If you are looking to crack a job interview this is definitely the most important course you can take.</p>
 
 </div>
 
 ### Key Takeaways 
- * Discover the winner mindset and body language of success
+ * Learn the winner mindset and body language of success
  * Preparation strategies to take on the interview
- * Gain confidence to make a great first impression
+ * Gain confidence to make that first impression
  * How to handle difficult questions
  * Use hypnotic communication skills to leave an impression on the interviewers
  * Learn the art of salary negotiation
