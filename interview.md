@@ -10,7 +10,7 @@ page.reg-close-date : 17th Mar 2020
 program-price : INR 4,000/-
 
 ---
-<iframe style="margin-bottom:20px" width="460" height="258" src="https://youtube.com/embed/8TBSvDN9IGQ" frameborder="0" allow="" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUj6-7yDg28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div>
 <p>Are you trying to crack an interview to get your dream job? If you learn mind hacks to easily nail it what would that do for you? 
@@ -22,7 +22,7 @@ program-price : INR 4,000/-
 
 <p>There are unconscious filters that run in the background causing people to perceive you in a certain way. If you could learn the art of finding out what people want and give it to them, they will give you what you want. They will also think it’s their idea. </p>
 
-<p>If you are looking to crack a job interview this is definitely the most important course you can take.</p>
+<p>If you are looking to crack a job interview this is definitely the most important training you can take.</p>
 
 </div>
 
@@ -31,7 +31,7 @@ program-price : INR 4,000/-
  * Preparation strategies to take on the interview
  * Gain confidence to make that first impression
  * How to handle difficult questions
- * Use hypnotic communication skills to leave an impression on the interviewers
+ * Use hypnotic communication skills to leave an impact on the interviewers
  * Learn the art of salary negotiation
 
 
