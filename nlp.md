@@ -46,7 +46,6 @@ If you have goals in your life that you want to go after, if you want to know ho
 
 ### Participant Feedback
 Please find the reviews of participants who have attended the program: 
-
 <p>
 <a href="https://www.facebook.com/pg/themindlabtraining/reviews/?ref=page_internal">Facebook Reviews</a> 
 </p>

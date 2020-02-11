@@ -8,7 +8,7 @@ reg-close-date : 15th Jan 2020
 program-time : 9:30 am - 5 pm
 program-venue : Dialogues Cafe, J P Nagar, Bengaluru
 page.reg-close-date : 15th Jan 2020
-program-price : INR 6,500/-
+program-price : INR 7,000/-
 
 ---
 
