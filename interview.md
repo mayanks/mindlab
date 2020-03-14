@@ -2,11 +2,11 @@
 layout: programs
 title:  "Crack that Interview!"
 author: roma
-program-date : 22nd Mar 2020
-reg-close-date : 17th Mar 2020
+program-date : 26th Apr 2020
+reg-close-date : 20th Apr 2020
 program-time : 9:30 am - 5 pm
 program-venue : Dialogues Cafe, J P Nagar, Bengaluru
-page.reg-close-date : 17th Mar 2020
+page.reg-close-date : 26th Apr 2020
 program-price : INR 4,000/-
 
 ---
