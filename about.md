@@ -19,6 +19,7 @@ comments: true
     </div>
 
     <ul>
+      <li>B.E (CSE), RVCE(Blr)</li>
       <li>Certified Counsellor in person-centred therapy</li>
       <li>International Certification in Transactional Analysis 101</li>
       <li>Foundation course in Transactional Analysis</li>
